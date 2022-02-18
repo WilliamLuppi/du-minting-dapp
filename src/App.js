@@ -200,7 +200,7 @@ function App() {
         ai={"center"}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"/config/images/logo.png"} 
+        <StyledLogo alt={"logo"} src={"https://github.com/WilliamLuppi/du-minting-dapp/blob/main/build/config/images/LOGO.png"} 
         style={{ width: "35%" }}></StyledLogo>
         <ResponsiveWrapper flex={0} style={{ padding: 1 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
