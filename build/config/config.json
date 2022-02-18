@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2d39ca7eaFD7416a00333ac9dC1C86c41953176e",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2d39ca7eaFD7416a00333ac9dC1C86c41953176e",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Dogs Unleashed Minions",
+  "SYMBOL": "DUMNFT",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dogs-unleashed-minions",
+  "SHOW_BACKGROUND": true
+}
