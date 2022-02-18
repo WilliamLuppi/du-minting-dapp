@@ -200,7 +200,7 @@ function App() {
         ai={"center"}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
-        <StyledLogo alt={"logo"} src={"/config/images/LOGO.png"} 
+        <StyledLogo alt={"logo"} src={"/config/images/logo.png"} 
         style={{ width: "35%" }}></StyledLogo>
         <ResponsiveWrapper flex={0} style={{ padding: 1 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
@@ -400,7 +400,16 @@ function App() {
             gas limit.
           </s.TextDescription>
         </s.Container>
-      </s.Container>
+        <s.SpacerSmall />
+          <s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "var(--secondary-text)",
+            }}
+          >
+          <a href="https://dogsunleashednft.com">Dogs Unleashed Official Website</a> | Follow <a href="https://twitter.com/DogsUNFT">DOGS UNLEASHED ON TWITTER</a> for more Updates
+          </s.TextDescription>
+        </s.Container>
     </s.Screen>
   );
 }
