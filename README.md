@@ -1,1 +1,1 @@
-# du-minting-dapp
+# Dogs Unleashed Official Minting Dapp
