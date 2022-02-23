@@ -113,7 +113,7 @@ function App() {
     SYMBOL: "DUMNFT",
     MAX_SUPPLY: 5000,
     WEI_COST: 75000000000000000,
-    DISPLAY_COST: 0.06,
+    DISPLAY_COST: 0.025,
     GAS_LIMIT: 285000,
     MARKETPLACE: "Opeansea",
     MARKETPLACE_LINK: "https://opensea.io/collection/dogs-unleashed-minions",
