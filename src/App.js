@@ -225,7 +225,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-             {CONFIG.MAX_SUPPLY}
+             {CONFIG.MAX_SUPPLY} DUMNFTs
             </s.TextTitle>
             <s.TextDescription
               style={{
