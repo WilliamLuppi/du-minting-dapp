@@ -202,7 +202,7 @@ function App() {
       >
         <StyledLogo alt={"logo"} src={"/config/images/LOGO.png"} 
         style={{ width: "35%" }}></StyledLogo>
-        <ResponsiveWrapper flex={0} style={{ padding: 1 }} test>
+        <ResponsiveWrapper flex={0} style={{ padding: 4 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
           </s.Container>
           <s.SpacerLarge />
@@ -225,7 +225,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              {data.totalSupply} / {CONFIG.MAX_SUPPLY}
+             {CONFIG.MAX_SUPPLY}
             </s.TextTitle>
             <s.TextDescription
               style={{
