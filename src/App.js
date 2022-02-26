@@ -112,7 +112,7 @@ function App() {
     NFT_NAME: "Dogs Unleashed Minions",
     SYMBOL: "DUMNFT",
     MAX_SUPPLY: 5000,
-    WEI_COST: 75000000000000000,
+    WEI_COST: 25000000000000000,
     DISPLAY_COST: 0.025,
     GAS_LIMIT: 285000,
     MARKETPLACE: "Opeansea",
